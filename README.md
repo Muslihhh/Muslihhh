@@ -1,16 +1,15 @@
-## Hi there 👋
+# Halo, saya Muslih! 👋
 
-<!--
-**Muslihhh/Muslihhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang Web Developer yang fokus di Laravel & Tailwind CSS.
 
-Here are some ideas to get you started:
+## 🚀 Skillset
+- PHP, Laravel
+- figma
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Hubungi saya
+- Email: rifaimuh760@gmail.com
+- LinkedIn: [linkedin.com/in/ilhamdev](https://linkedin.com/in/ilhamdev)
+
+## 📊 Statistik GitHub
+![Muslih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muslihhh&show_icons=true)

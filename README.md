@@ -43,6 +43,35 @@
   </a>
 </p>
 
+## 🧩 Projek Pilihan
+
+Berikut beberapa proyek yang pernah saya kerjakan:
+
+### 🎬 Movie Review Website
+📌 **Deskripsi**: Website direktori film dengan trailer, sinopsis, dan sistem rating.  
+🛠️ **Tech Stack**: Laravel, TailwindCSS, MySQL  
+🔗 [Lihat Repo](https://github.com/muslihhh/Film)
+
+---
+
+### 🛒 Laravel E-Commerce
+📌 **Deskripsi**: Website toko online sederhana dengan fitur keranjang, checkout, dan integrasi WhatsApp.  
+🛠️ **Tech Stack**: Laravel, TailwindCSS, MySQL
+🔗 [Lihat Repo](https://github.com/muslihhh/TokoOnline)
+
+---
+
+### 🧅 Landing Page Bawang Goreng
+📌 **Deskripsi**: Landing Page untuk menawarkan produk Bawang Goreng.  
+🛠️ **Tech Stack**: Wordpress, elementor, Woocommerce  
+🔗 [Lihat Web](https://glowingbawanggoreng.com/)
+
+---
+
+### 🌶 Landing Page Sambal
+📌 **Deskripsi**: Landing Page untuk menawarkan produk Sambal.  
+🛠️ **Tech Stack**: Wordpress, elementor, Woocommerce  
+🔗 [Lihat Web](https://nyosssambal.com/)
 
 ## 📊 GitHub Stats
 

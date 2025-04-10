@@ -1,20 +1,19 @@
 <h1 align="center">Halo 👋, saya Muslihhh!</h1>
-<h3 align="center">Web Developer | Laravel Enthusiast | UI/UX Explorer</h3>
+<h3 align="center">Web Developer</h3>
 
 ---
 
 ## 🧑‍💻 Sedikit Tentang Saya
-- 🔭 Saya sedang mengerjakan beberapa proyek Laravel + Tailwind
-- 🌱 Saat ini sedang belajar lebih dalam tentang Vue.js dan REST API
-- 📫 Kamu bisa hubungi saya di **muslihhh@example.com**
+- 😉 Saya seorang siswa dari SMKN 1 Bantul
+- 🌱 Saat ini sedang mendalami PHP & Tailwind CSS
+- 📫 Kamu bisa hubungi saya di **rifaimuh760@gmail.com**
 
 ---
 
 ## 🌐 Sosial Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muslihhh)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muslihhh)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muslihhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-muslih-8560a9347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musliouss?igsh=dGxvY2w5NXJ3dXlw)  
 
 ---
 

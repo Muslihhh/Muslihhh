@@ -41,6 +41,9 @@
   <a href="https://www.figma.com" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
+  <a href="https://wordpress.org" target="_blank">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  </a>
 </p>
 
 ## 🧩 Projek Pilihan

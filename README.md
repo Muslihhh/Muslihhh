@@ -3,7 +3,7 @@
 ## 🧑‍💻 Sedikit Tentang Saya
 - 😉 Saya seorang siswa dari SMKN 1 Bantul
 - 🌱 Saat ini sedang mendalami PHP & Tailwind CSS
-- 📫 Kamu bisa hubungi saya di **rifaimuh760@gmail.com**
+- 📫 Kamu bisa hubungi saya di **muslihrifai004@gmail.com**
 
 ---
 

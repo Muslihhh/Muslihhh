@@ -1,8 +1,4 @@
 <h1 align="center">Halo 👋, saya Muhammad Muslih Rifa'i!</h1>
-<h3 align="center">Web Developer</h3>
-
----
-
 ## 🧑‍💻 Sedikit Tentang Saya
 - 😉 Saya seorang siswa dari SMKN 1 Bantul
 - 🌱 Saat ini sedang mendalami PHP & Tailwind CSS

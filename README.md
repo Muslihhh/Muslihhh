@@ -59,7 +59,7 @@ Berikut beberapa proyek yang pernah saya kerjakan:
 
 ### 🛒 Laravel E-Commerce
 📌 **Deskripsi**: Website toko online sederhana dengan fitur keranjang, checkout, dan integrasi WhatsApp.  
-🛠️ **Tech Stack**: Laravel, TailwindCSS, MySQL
+🛠️ **Tech Stack**: Laravel, TailwindCSS, MySQL 
 🔗 [Lihat Repo](https://github.com/muslihhh/TokoOnline)
 
 ---
